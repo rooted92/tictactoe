@@ -1,0 +1,11 @@
+.square {
+    width: 8rem;
+    height: 8rem;
+    background-color: #252422;
+    border-radius: .5rem;
+    border: none;
+    color: #FFFCF2;
+    font-size: 4rem;
+    font-weight: 800;
+    margin: .5rem;
+}

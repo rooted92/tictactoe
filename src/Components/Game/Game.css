@@ -1,0 +1,12 @@
+ol {
+    font-size: 1rem;
+}
+
+.listItem {
+    height: 2.5rem;
+    width: auto;
+    border: solid 2px #CCC5B9;
+    border-radius: .5rem;
+    background-color: #403D39;
+    color: #EB5E28;
+}
